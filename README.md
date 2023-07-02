@@ -108,6 +108,9 @@ I support Manchester United 👿 and Barcelona 😎.
 ### Show some ❤️ by starring some of the repositories!
 </div>
 
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
 
 
