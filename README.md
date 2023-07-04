@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zlailmm&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 </details>
 
